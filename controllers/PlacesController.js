@@ -48,7 +48,7 @@ exports.placeList = [
 		console.log('hi')
 		let {long, lat} = req.body.geoPoints;
 		console.log('ff',long, lat)
-			let distance = 10000;
+			let distance = 10000; // im meters
 		try {
 			
 			
