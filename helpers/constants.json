@@ -1,0 +1,222 @@
+[
+    {
+        "name": "Mandarin Oriental, New York",
+        "address": "80 Columbus Cir, New York, NY 10023•(212) 805-8800",
+        "description": "",
+        "image": "https://goo.gl/maps/7rtULGkqYmQb8gnC9",
+        "cta": "",
+        "price": {
+            "currency": "USD",
+            "maxprice": "483",
+            "minprice": "813"
+        },
+        "type": "5-star hotel",
+        "rating": "4.6",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                40.77377623345305,
+                -73.98233264122082
+            ]
+        },
+        "category": "Hotel"
+    },
+    {
+        "name": "The Ritz-Carlton New York, Central Park",
+        "address": "50 Central Park S, New York, NY 10019•(212) 308-9100",
+        "description": "",
+        "image": "https://goo.gl/maps/PJvVTkmGsk4wKaT46",
+        "cta": "",
+        "price": {
+            "currency": "USD",
+            "maxprice": "660",
+            "minprice": "1087"
+        },
+        "type": "5-star hotel",
+        "rating": "4.6",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                40.76980109149126,
+                -73.97565796406909
+            ]
+        },
+        "category": "Hotel"
+    },
+    {
+        "name": "Lotte New York Palace",
+        "address": "455 Madison Ave, New York, NY 10022•(212) 888-7000",
+        "description": "",
+        "image": "https://goo.gl/maps/kZEpUsn2PLoUagr38",
+        "cta": "",
+        "price": {
+            "currency": "USD",
+            "maxprice": "324",
+            "minprice": "468"
+        },
+        "type": "5-star hotel",
+        "rating": "4.5",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                40.762764131797674,
+                -73.97590325521777
+            ]
+        },
+        "category": "Hotel"
+    },
+    {
+        "name": "PUBLIC Hotel",
+        "address": "215 Chrystie St, New York, NY 10002•(212) 735-6000",
+        "description": "",
+        "image": "https://goo.gl/maps/ZJYMB1YdQQcZLMiE9",
+        "cta": "",
+        "price": {
+            "currency": "USD",
+            "maxprice": "199",
+            "minprice": "269"
+        },
+        "type": "4-star hotel",
+        "rating": "4.3",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                40.72764248178689,
+                -73.99175226543032
+            ]
+        },
+        "category": "Hotel"
+    },
+    {
+        "name": "1 Hotel Central Park",
+        "address": "1414 6th Ave, New York, NY 10019•(212) 703-2001",
+        "description": "",
+        "image": "https://goo.gl/maps/J7F9c1YfrVQymTTi9",
+        "cta": "",
+        "price": {
+            "currency": "USD",
+            "maxprice": "331",
+            "minprice": "558"
+        },
+        "type": "5-star hotel",
+        "rating": "4.5",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                40.76959763640947,
+                -73.97749685499706
+            ]
+        },
+        "category": "Hotel"
+    },
+    {
+        "name": "Rezdôra",
+        "address": "27 E 20th St, New York, NY 10003, United States",
+        "description": "",
+        "image": "https://goo.gl/maps/xXHn4werU7T6Vx7Q9",
+        "cta": "",
+        "price": {
+            "currency": "USD",
+            "maxprice": "331",
+            "minprice": "558"
+        },
+        "type": "Northern Italian restaurant",
+        "rating": "4.3",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                40.73933904626157,
+                -73.9889796291901
+            ]
+        },
+        "category": "Restaurant"
+    },
+    {
+        "name": "Atoboy",
+        "address": "43 E 28th St, New York, NY 10016, United States",
+        "description": "",
+        "image": "https://goo.gl/maps/W9WQTJ2R2wxPYWK1A",
+        "cta": "",
+        "price": {
+            "currency": "USD",
+            "maxprice": "331",
+            "minprice": "558"
+        },
+        "type": "Korean restaurant",
+        "rating": "4.6",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                40.74385562888974,
+                -73.9845610040483
+            ]
+        },
+        "category": "Restaurant"
+    },
+    {
+        "name": "Gramercy Tavern",
+        "address": "42 E 20th St, New York, NY 10003, United States",
+        "description": "",
+        "image": "https://goo.gl/maps/HCsxbqq8LjXGtS2z7",
+        "cta": "",
+        "price": {
+            "currency": "USD",
+            "maxprice": "331",
+            "minprice": "558"
+        },
+        "type": "New American restaurant",
+        "rating": "4.7",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                40.738695290335244,
+                -73.98842057151957
+            ]
+        },
+        "category": "Restaurant"
+    },
+    {
+        "name": "Oxomoco",
+        "address": "128 Greenpoint Ave, Brooklyn, NY 11222, United States",
+        "description": "",
+        "image": "https://goo.gl/maps/QnyMwruBYFjBvV227",
+        "cta": "",
+        "price": {
+            "currency": "USD",
+            "maxprice": "331",
+            "minprice": "558"
+        },
+        "type": "Mexican restaurant",
+        "rating": "4.6",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                40.73017504454015,
+                -73.95555110404868
+            ]
+        },
+        "category": "Restaurant"
+    },
+    {
+        "name": "Dhamaka By Oat Soda Pub",
+        "address": "17, 4, Residency Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560025",
+        "description": "",
+        "image": "https://goo.gl/maps/iNqFgSiNHdg3o7Ca8",
+        "cta": "",
+        "price": {
+            "currency": "USD",
+            "maxprice": "331",
+            "minprice": "558"
+        },
+        "type": "Pub",
+        "rating": "3.9",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                12.990397894227678,
+                77.5995704697306
+            ]
+        },
+        "category": "Restaurant"
+    }
+]
