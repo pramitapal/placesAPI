@@ -1,8 +1,0 @@
-{
-    "env": {
-        "MONGO_USER": "cnt",
-        "MONGO_PASSWORD": "cnt",
-        "MONGO_DB": "directoryDB",
-        "JWT_KEY": "AD-Directory"
-    }
-}
