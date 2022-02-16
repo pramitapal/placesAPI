@@ -1,2 +1,2 @@
-# placesAPI
-Lists down places like hotels, restaurants, shops when user performs search in a location
+# AD_Directory_API
+API for designers and admin role

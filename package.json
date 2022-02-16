@@ -1,28 +1,36 @@
 {
-  "name": "placesapi",
+  "name": "ad-direcory",
   "version": "1.0.0",
-  "description": "places api",
- 
+  "description": "Node server for ad directory",
+  "main": "index.js",
   "scripts": {
-    "start": "node ./bin/www",
-    "dev": "nodemon ./bin/www",
-    "test": "nyc _mocha --timeout 10000 --exit --report lcovonly -- -R spec",
-    "lint": "eslint --fix --config .eslintrc.json \"**/*.js\""
+    "start": "nodemon app.js",
+    "test": "npm run test"
   },
-  "author": "Pramita Pal",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pramita21/AD_Directory_API.git"
+  },
+  "author": "Avinash",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pramita21/AD_Directory_API/issues"
+  },
+  "homepage": "https://github.com/pramita21/AD_Directory_API#readme",
   "dependencies": {
-    "cookie-parser": "^1.4.6",
-    "cors": "^2.8.5",
-    "debug": "^4.3.3",
-    "dotenv": "^16.0.0",
-    "eslint": "^8.8.0",
+    "async": "^3.2.3",
+    "atob": "^2.1.2",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.1",
     "express": "^4.17.2",
-    "express-validator": "^6.14.0",
-    "http": "^0.0.1-security",
-    "mongoose": "^6.2.0",
-    "morgan": "^1.10.0",
-    "nodemon": "^2.0.15",
-    "path": "^0.12.7"
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.8.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.2.1",
+    "node-fetch": "2.0",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {
+    "cors": "^2.8.5"
   }
 }
